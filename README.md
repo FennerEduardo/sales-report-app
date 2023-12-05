@@ -1,6 +1,10 @@
-# SalesReportApp
+# SalesReportApp by Fenner González 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.2.
+
+## Install dependecies
+
+Run `npm install` .
 
 ## Development server
 
